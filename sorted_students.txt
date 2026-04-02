@@ -1,0 +1,8 @@
+\
+COPY CON students.txt
+COPY CON students.txt
+Алексеева
+Иванов
+Козлов
+Петров
+Сидоров
